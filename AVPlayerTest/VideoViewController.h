@@ -21,6 +21,7 @@
 @property (weak, nonatomic) IBOutlet UIView *topView;
 @property (weak, nonatomic) IBOutlet UILabel *titleLabel;
 @property (weak, nonatomic) IBOutlet UIView *bottomView;
+@property (nonatomic,strong) NSString *videoTitle;
 - (IBAction)goBack:(id)sender;
 
 - (IBAction)onPlayBtnClick:(id)sender;

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ABC98BD4-745D-4BA4-82DC-0AF0625808C5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AVPlayerTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>571838BFC4DF00CB1D4129C7D8CFCD652AD7C90E</key>
+		<string>https://github.com/dushukai111/AVPlayerTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AVPlayerTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>571838BFC4DF00CB1D4129C7D8CFCD652AD7C90E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dushukai111/AVPlayerTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>571838BFC4DF00CB1D4129C7D8CFCD652AD7C90E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>571838BFC4DF00CB1D4129C7D8CFCD652AD7C90E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AVPlayerTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
